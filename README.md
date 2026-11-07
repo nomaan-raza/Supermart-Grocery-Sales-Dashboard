@@ -1,7 +1,7 @@
 # Supermart Grocery Sales Dashboard
 
 
-*Project Context*
+**Project Context**
 
 
 Ram is working on a Supermart Grocery Sales Dashboard using the company's sales data. The management team wants a simple dashboard that helps them understand sales, profit, products, discounts, and geographic performance in one place.
@@ -9,7 +9,7 @@ Ram is working on a Supermart Grocery Sales Dashboard using the company's sales 
 Ram needs to analyze the available sales data and convert the findings into an easy-to-understand interactive dashboard. The dashboard should help management answer important business questions without going through the complete dataset.
 
 
-*Tasks*
+**Tasks**
 
 1. What are the total sales and total profit?
     
